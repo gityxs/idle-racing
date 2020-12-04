@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./idle-racing/static/css/main.d02c4149.chunk.css",
-    "main.js": "./idle-racing/static/js/main.2f6c84b2.chunk.js",
-    "main.js.map": "./idle-racing/static/js/main.2f6c84b2.chunk.js.map",
+    "main.js": "./idle-racing/static/js/main.d74cd841.chunk.js",
+    "main.js.map": "./idle-racing/static/js/main.d74cd841.chunk.js.map",
     "runtime-main.js": "./idle-racing/static/js/runtime-main.2dfde269.js",
     "runtime-main.js.map": "./idle-racing/static/js/runtime-main.2dfde269.js.map",
     "static/js/2.b84adb4c.chunk.js": "./idle-racing/static/js/2.b84adb4c.chunk.js",
@@ -61,6 +61,6 @@
     "static/js/runtime-main.2dfde269.js",
     "static/js/2.b84adb4c.chunk.js",
     "static/css/main.d02c4149.chunk.css",
-    "static/js/main.2f6c84b2.chunk.js"
+    "static/js/main.d74cd841.chunk.js"
   ]
 }
